@@ -5,7 +5,8 @@ The drowsiness of drivers is one of the main reasons behind road accidents. It i
 
 Here, you will use Python, OpenCV, and Keras to build a system that can detect the closed eyes of drivers and alert them if ever they fall asleep while driving. Even if the driver’s eyes are closed for a few seconds, this system will immediately inform the driver, thereby preventing terrible road accidents. OpenCV will monitor and collect the driver’s images via a webcam and feed them into the deep learning model that will classify the driver’s eyes as ‘open’ or ‘closed.’
 
-## Dataset used
+## Dataset
 The dataset used is a subset of a dataset from [Kaggle](https://www.kaggle.com/serenaraju/yawn-eye-dataset-new)
 
-The dataset is preprocessed by running preprocess.py file.
+## Model Architecture
+[!Model](model.png)
