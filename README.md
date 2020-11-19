@@ -9,4 +9,4 @@ Here, you will use Python, OpenCV, and Keras to build a system that can detect t
 The dataset used is a subset of a dataset from [Kaggle](https://www.kaggle.com/serenaraju/yawn-eye-dataset-new)
 
 ## Model Architecture
-[!Model](model.png)
+![Model](model.png)
