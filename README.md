@@ -10,3 +10,17 @@ The dataset used is a subset of a dataset from [Kaggle](https://www.kaggle.com/s
 
 ## Model Architecture
 ![Model](model.png)
+
+## Steps to run
+### Step 1
+```
+git clone https://github.com/GaneshSparkz/Drowsiness-Detection-System-CNN-OpenCV.git
+```
+### Step 2
+```
+cd Drowsiness-Detection-System-CNN-OpenCV
+```
+### Step 3
+```
+python detect_drowsiness.py
+```
